@@ -1,6 +1,5 @@
 # Applied Mathematical Computing.
-Welcome to my repository of code snippets covering various Mathematical concepts, primarily focused on [Applied Mathematics](https://en.wikipedia.org/wiki/Applied_mathematics).
-As part of my coursework and personal exploration, I've compiled these code snippets to showcase practical implementations of mathematical concepts using [MATLAB software](https://www.mathworks.com/products/matlab.html).
+Welcome to my collection of code snippets that explore a range of Mathematical concepts, with a primary emphasis on [Applied Mathematics](https://en.wikipedia.org/wiki/Applied_mathematics). These code snippets are the result of my coursework and personal exploration. They are designed to demonstrate how Mathematical concepts can be put into practice using [MATLAB software](https://www.mathworks.com/products/matlab.html).
 
 ## Why Applied Mathematics?
 I'm particularly drawn to Applied Mathematics due to its practical nature. It offers a way to bridge theoretical concepts with real-world problem-solving. The intuitive approach of Applied Mathematics makes it enjoyable to learn and allows for the effective resolution of complex problems.
